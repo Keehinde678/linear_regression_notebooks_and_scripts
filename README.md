@@ -51,6 +51,7 @@ Scripts allow automation and easy repetition of regression analysis without open
 
 ## NB:
 Python and R Notebooks are in /notebooks/
+
 Outputs (PNG plots) are in /outputs/
 
 ### Example Usage
