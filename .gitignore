@@ -1,0 +1,26 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.class
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# R specific files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Output files
+*.html
+*.png
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
