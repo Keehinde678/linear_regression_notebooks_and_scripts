@@ -49,11 +49,6 @@ Scripts allow automation and easy repetition of regression analysis without open
 - Saves plot image to `/outputs/`.
 - Prints evaluation metrics (R², RMSE) to console.
 
-## NB:
-Python and R Notebooks are in /notebooks/
-
-Outputs (PNG plots) are in /outputs/
-
 ### Example Usage
 
 ```bash
